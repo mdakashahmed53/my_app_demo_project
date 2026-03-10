@@ -19,6 +19,10 @@ class Home extends StatelessWidget {
               fontSize: 40
           ),),
 
+          Text('Hello Word Github Frist Project on github pull update check origin', style: TextStyle(
+              fontSize: 40
+          ),),
+
         ],
       ),
     );
