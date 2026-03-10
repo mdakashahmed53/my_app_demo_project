@@ -14,7 +14,11 @@ class Home extends StatelessWidget {
         children: [
           Text('Hello Word', style: TextStyle(
             fontSize: 40
-          ),)
+          ),),
+          Text('Hello Word Github Frist Project on github', style: TextStyle(
+              fontSize: 40
+          ),),
+
         ],
       ),
     );
