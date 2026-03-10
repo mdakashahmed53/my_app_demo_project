@@ -12,7 +12,9 @@ class Home extends StatelessWidget {
       ),
       body: Column(
         children: [
-          Text('Hello Word')
+          Text('Hello Word', style: TextStyle(
+            fontSize: 40
+          ),)
         ],
       ),
     );
