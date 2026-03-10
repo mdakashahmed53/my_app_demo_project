@@ -9,19 +9,11 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text('Home'),
         centerTitle: true,
+        backgroundColor: Colors.amber,
       ),
       body: Column(
-        children: [
-          Text('Hello Word', style: TextStyle(
-            fontSize: 40
-          ),),
-          Text('Hello Word Github Frist Project on github', style: TextStyle(
-              fontSize: 40
-          ),),
 
-          Text('Hello Word Github Frist Project on github pull update check origin', style: TextStyle(
-              fontSize: 40
-          ),),
+        children: [
 
         ],
       ),
