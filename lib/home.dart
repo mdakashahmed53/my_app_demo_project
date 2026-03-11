@@ -15,6 +15,9 @@ class Home extends StatelessWidget {
 
         children: [
           // hello i am akash ahmed
+          Text('Hello I am Akash Ahmed', style: TextStyle(
+            fontSize: 40,
+          ),)
         ],
       ),
     );
